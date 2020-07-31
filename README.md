@@ -1,3 +1,3 @@
 # Calculator
 
-![images](/untitled.png)
+![](untitled.png)
